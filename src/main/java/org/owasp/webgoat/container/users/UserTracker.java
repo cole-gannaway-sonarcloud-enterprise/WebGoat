@@ -133,4 +133,10 @@ public class UserTracker {
     }
     return numberOfAssignmentsSolved;
   }
+
+  public void doNothing(){
+    while (true){
+        
+    }
+  }
 }
